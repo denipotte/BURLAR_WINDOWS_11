@@ -17,10 +17,11 @@
                     Feche o prompt
                     Na tela de instalação, clique em voltar e depois avance para continuar a instalação novamente.
                     
-                    Se pedir para criar conta Microsoft, vc tem duas opções:
+                    Se estiver conectado à Internet o Windows vai pedir para criar conta Microsoft, vc tem duas opções:
                     1) Apertar "SHIFT" + "F10" e no prompt digitar taskmgr.exe e encerre o aplicativo "sem rede". Depois feche o promt e clique em avançar;
                     2) Caso aparece a tela para criar a conta e o processo 1 não tenha dado certo, coloque os seguintes dados para criar a conta: test@test.com e senha: test
                        Depois é só clicar em avançar. 
 
 
+            
 Referência: https://www.youtube.com/watch?v=hd1Jkc50ji4
